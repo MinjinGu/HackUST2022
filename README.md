@@ -1,6 +1,7 @@
 # Home Page
 
 ![iPhone 13 Pro Max - 30](https://user-images.githubusercontent.com/79050073/163307914-23af3bbc-c61f-4a08-a4e7-4de3121e51bd.png)
+
 The app will be mainly used for caretakers(carer, children of the elderly) to monitor elderly while they are distant from elderly due to their work or duty. The users or the caretakers are asked to sign up to use the app. They can simply sign up through Google or any corresponding social media accounts to sign up. 
 
 # Filling Up Page for carer and children information
